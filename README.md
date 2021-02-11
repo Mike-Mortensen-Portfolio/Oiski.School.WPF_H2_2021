@@ -6,13 +6,14 @@
 
 ## The program
 **Goal**
-> Missing description...
+> Build a visual representation of a Golf GTI Dashboard using WPF an XAML.
+> This assignment is focused around using `Grid` and `Stackpanel`
 
 **Input**
-> Missing description...
+> No Input. The Assignment was strictly design orientated
 
 **Output**
-> Missing description...
+> No output other than a window with the GUI elements present
 
 See the [Wiki]() for more in depth information about the project.
 
