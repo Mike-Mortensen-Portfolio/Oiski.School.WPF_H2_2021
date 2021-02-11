@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oiski.School.WPF._GolfGTI_H1_2021.GUI", "Oiski.School.WPF._GolfGTI_H1_2021.GUI\Oiski.School.WPF._GolfGTI_H1_2021.GUI.csproj", "{730F9A2E-EDC0-4067-A02D-2954A0EDEA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730F9A2E-EDC0-4067-A02D-2954A0EDEA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730F9A2E-EDC0-4067-A02D-2954A0EDEA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730F9A2E-EDC0-4067-A02D-2954A0EDEA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730F9A2E-EDC0-4067-A02D-2954A0EDEA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9635CEDA-DF83-43B5-9425-79ADF4144E85}
+	EndGlobalSection
+EndGlobal

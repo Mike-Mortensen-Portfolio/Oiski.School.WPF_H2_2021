@@ -1,0 +1,9 @@
+﻿<Application x:Class="Oiski.Schoo.WPF_H1_2021.FrameworkGUI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Oiski.Schoo.WPF_H1_2021.FrameworkGUI"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
