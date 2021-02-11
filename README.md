@@ -1,8 +1,10 @@
 # Oiski's WPF Application
 
 ## About The Project
+Missing Description...
 
 ### Terms of Development
+Missing Description...
 
 ## The program
 **Goal**
